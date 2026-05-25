@@ -1,10 +1,14 @@
-    .imagem{
-    /*largura*/
-    width:250px;
+body{
+    margin: 0; /*remove a margem*/
 
 
-    /*largura*/
-    height:250px ;
+background-color: rgb(14, 13, 13); /* muda a cor do fundo */
+
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+
+
 
 
 
